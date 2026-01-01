@@ -1,6 +1,6 @@
-#Ubuntu Home-Lab Monitoring Stack
+# Ubuntu Home-Lab Monitoring Stack
 A lightweight, containerized monitoring solution for Ubuntu Server 24.04. This project uses Prometheus to collect system metrics via Node Exporter and visualizes them through a Grafana dashboard
-#Tech Stack
+# Tech Stack
 OS: Ubuntu Server 24.04 (Noble Numbat)
 
 Runtime: Docker & Docker Compose
@@ -10,7 +10,7 @@ Metrics: Prometheus & Node Exporter
 Visualization: Grafana
 
 Networking: Cloudflare Tunnels (for remote SSH access)
-#Features
+# Features
 Real-time Monitoring: Track CPU, Memory, and Disk usage with 15s refresh rates.
 
 Network Analysis: Monitor inbound and outbound traffic spikes.
