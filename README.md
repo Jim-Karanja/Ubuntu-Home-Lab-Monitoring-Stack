@@ -21,3 +21,6 @@ Remote Access: Securely accessible via Cloudflare Tunnels without opening router
 Infrastructure as Code:** Entire monitoring stack deployed via Docker Compose with automated restart policies.
 Automated Diagnostics:** Includes a Python-based health check script that queries the Prometheus API for instant CLI-based status reports.
 Alerting ready:** Configured to support Webhook integrations for external notifications.
+# dashboards
+<img width="1351" height="682" alt="image" src="https://github.com/user-attachments/assets/a811f8fb-2a78-439e-81f8-0190f7ed22fb" />
+<img width="556" height="151" alt="image" src="https://github.com/user-attachments/assets/67033a8f-87f2-4273-b63f-18f356a14270" />
